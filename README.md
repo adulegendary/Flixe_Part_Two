@@ -14,13 +14,14 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
    - [ ] (1pt) In landscape mode, the rotated alternate layout should use the backdrop image instead and show the title and movie overview to the right of it.
 
 - [X] (2pts) Display a nice default [placeholder graphic](https://guides.codepath.org/android/Displaying-Images-with-the-Glide-Library#advanced-usage) for each image during loading
-- [ ] (2pts) Improved the user interface by experimenting with styling and coloring.
+- [X] (2pts) Improved the user interface by experimenting with styling and coloring.
 - [ ] (2pts) For popular movies (i.e. a movie voted for more than 5 stars), the full backdrop image is displayed. Otherwise, a poster image, the movie title, and overview is listed. Use Heterogenous RecyclerViews and use different ViewHolder layout files for popular movies and less popular ones.
 
 ### App Walkthough GIF
 
 
-<img src="![recrded codePath](https://user-images.githubusercontent.com/78896535/155860031-687e1d94-c148-4a7c-abe1-69533ed2c6f8.gif)"
+<img src="![recrded codePath](https://user-images.githubusercontent.com/78896535/155861301-f5ecf0f7-9991-4995-8c29-16be3fd855c9.gif)"
+
 
 
 
