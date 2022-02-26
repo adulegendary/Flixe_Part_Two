@@ -18,13 +18,13 @@ class MovieAdapter(private val context: Context, private val movies: List<Movie>
 
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): ViewHolder {
         val view =LayoutInflater.from(context).inflate(R.layout.iteim_movies,parent,false)
-        Log.i(TAG,"onCreateViewHolder")
+      //  Log.i(TAG,"onCreateViewHolder")
         return ViewHolder(view)
      }
 
     override fun onBindViewHolder(holder: ViewHolder, position: Int) {
         val movie=movies[position]
-        Log.i(TAG,"onBindViewHolder")
+        //Log.i(TAG,"onBindViewHolder")
         holder.bind(movie)
     }
 
