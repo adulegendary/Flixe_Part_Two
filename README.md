@@ -22,7 +22,9 @@
 
 
 
-<img src= "width![recrded codePath2](https://user-images.githubusercontent.com/78896535/156859605-0dce1391-2912-4301-ba1b-154b11c287f7.gif)"
+<img src= "![crypto_trucker](https://user-images.githubusercontent.com/78896535/169722482-edbaa395-a758-4f0e-9047-0ddda0afe804.gif)"
+
+          
 =250><br>
 
 ### Notes
